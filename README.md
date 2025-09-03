@@ -18,7 +18,7 @@ Url: `https://tubvsig-so2sat-vm1.srv.mwn.de/geoserver/ows?`
 A web interface for viewing the data is available at: [website](https://tubvsig-so2sat-vm1.srv.mwn.de)
 
 ### Full Data Download
-The full data can be downloaded from [mediaTUM](https://mediatum.ub.tum.de/178230)
+The full data can be downloaded from [mediaTUM](https://mediatum.ub.tum.de/1782307)
 
 ## Development Code
 ### Global Building Polygon Generation using Satellite Data (Sec. 4.3)
