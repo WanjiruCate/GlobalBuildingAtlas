@@ -35,6 +35,9 @@ For codes related to building map extraction, regularization, polygonization, an
 ## Visualization Code
 For codes to reproduce the plots in the manuscript, please refer to `./make_plots`.
 
+## Code License
+MIT with Commons Clause (no commercial use allowed). See [LICENSE](https://github.com/zhu-xlab/GlobalBuildingAtlas/blob/main/LICENSE).
+
 ## How to cite
 If you find this dataset helpful in your work, please cite the following paper.
 ```
