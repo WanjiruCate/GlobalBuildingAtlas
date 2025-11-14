@@ -17,7 +17,6 @@ setup(
     license = "BSD",
     keywords = "Remote sensing, Datasets, Geospatial",
     url = "http://packages.python.org/Dataset4EO",
-    packages=['Dataset4EO'],
     packages=find_packages(exclude=('configs', 'tools', 'demo')),
     long_description=read('README.md'),
     classifiers=[
