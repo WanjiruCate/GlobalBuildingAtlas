@@ -1,5 +1,5 @@
 import os
-from setuptools import setup
+from setuptools import setup, find_packages
 
 # Utility function to read the README file.
 # Used for the long_description.  It's nice, because now 1) we have a top level
@@ -18,7 +18,7 @@ setup(
     keywords = "Remote sensing, Datasets, Geospatial",
     url = "http://packages.python.org/Dataset4EO",
     packages=['Dataset4EO'],
-    package_dir = {'Dataset4EO':'Dataset4EO'},
+    packages=find_packages(exclude=('configs', 'tools', 'demo')),
     long_description=read('README.md'),
     classifiers=[
         "Development Status :: 3 - Alpha",
